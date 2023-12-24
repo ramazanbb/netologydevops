@@ -27,8 +27,8 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 2
-![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/2.1.png)
-![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/2.2.png)
+![alt text](img/2.1.png)
+![alt text](img/1.1.png)
 ---
 
 ### Задание 3

@@ -42,8 +42,9 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 3
-
-
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/3.1.png)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/3.2.png)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/3.3.png)
 ---
 ## Дополнительные задания (со звездочкой*)
 

@@ -11,8 +11,10 @@
 `В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.`
  
 ### Решение 1
+Настройки
 ![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/2023-12-24_15-47-38.png)
-
+результат сборки
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/2023-12-24_15-48-34.png)
 
 ---
 

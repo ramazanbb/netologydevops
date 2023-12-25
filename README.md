@@ -27,11 +27,12 @@ sudo apt install
 
 установка репозитория Zabbix
 
-``` wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb
+```
+wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb
 
- dpkg -i zabbix-release_6.4-1+debian11_all.deb
+dpkg -i zabbix-release_6.4-1+debian11_all.deb
  
- apt update
+apt update
 ```
  
 установка Zabbix сервера, веб-интерфейас и агента

@@ -45,10 +45,10 @@ apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-c
 ```
 sudo -u postgres createuser --pwprompt zabbix
 
- sudo -u postgres createdb -O zabbix zabbix
+sudo -u postgres createdb -O zabbix zabbix
 ```
  
-Настройте базу данных для Zabbix сервера
+Настройка базы данных для Zabbix сервера
 
 ``` 
 nano /etc/zabbix/zabbix_server.conf
@@ -59,7 +59,7 @@ nano /etc/zabbix/zabbix_server.conf
 ```
 systemctl restart zabbix-server zabbix-agent apache2
 
- systemctl enable zabbix-server zabbix-agent apache2
+systemctl enable zabbix-server zabbix-agent apache2
 ```
 
 ---

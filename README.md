@@ -15,7 +15,7 @@
  
 ### Решение 1
 Скрин админки
-[админка](https://github.com/ramazanbb/netologydevops/blob/main/img/админка.png)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/админка.png)
 
 команды
 

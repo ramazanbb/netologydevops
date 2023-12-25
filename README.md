@@ -21,7 +21,9 @@
 
 установка postgresql
 
-```sudo apt install ```
+``` 
+sudo apt install
+```
 
 установка репозитория Zabbix
 
@@ -29,27 +31,36 @@
 
  dpkg -i zabbix-release_6.4-1+debian11_all.deb
  
- apt update ```
+ apt update
+```
  
 установка Zabbix сервера, веб-интерфейас и агента
 
-``` apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent ```
+``` 
+apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+```
 
 Создание базы данных
 
-``` sudo -u postgres createuser --pwprompt zabbix
+```
+sudo -u postgres createuser --pwprompt zabbix
 
- sudo -u postgres createdb -O zabbix zabbix ```
+ sudo -u postgres createdb -O zabbix zabbix
+```
  
 Настройте базу данных для Zabbix сервера
 
-``` nano /etc/zabbix/zabbix_server.conf ```
+``` 
+nano /etc/zabbix/zabbix_server.conf
+```
 
 Запуск процессов Zabbix сервера и агента
 
-``` systemctl restart zabbix-server zabbix-agent apache2
+```
+systemctl restart zabbix-server zabbix-agent apache2
 
- systemctl enable zabbix-server zabbix-agent apache2 ```
+ systemctl enable zabbix-server zabbix-agent apache2
+```
 
 ---
 

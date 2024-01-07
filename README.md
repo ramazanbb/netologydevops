@@ -56,7 +56,8 @@
  ---
 ### Решение 3
 
-
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Zabbix.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202%2031%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Zabbix.%20Часть%202%2032задание.png)
 
 
 ### Задание 4
@@ -72,7 +73,7 @@
 
 
 ### Решение 4
-
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Zabbix.%20Часть%202%204задание.png)
 ## Дополнительные задания (со звездочкой*)
 
 Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выполнить, если хотите глубже и/или шире разобраться в материале.

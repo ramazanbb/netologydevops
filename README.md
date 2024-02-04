@@ -9,7 +9,8 @@
  
 ### Решение 1
 
-![alt text]()
+![alt text](/img/Снимок экрана 2024-02-04 154337.png)
+[схема](/img//hsrp_advanced.pkt)
 
 ---
 

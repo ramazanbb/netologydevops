@@ -9,7 +9,7 @@
  
 ### Решение 1
 
-![alt text](img/Снимок экрана 2024-02-04 154337.png)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Снимок%20экрана%202024-02-04%20154337.png)
 [схема](/img//hsrp_advanced.pkt)
 
 ---

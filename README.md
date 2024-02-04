@@ -22,7 +22,8 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 ### Решение 2
-```скрипт:
+скрипт
+```:
 #!/bin/bash
 if [[ $(netstat -ltn | grep :80) ]] && [[ -f /var/www/html/index.nginx-debian.html ]]; then
   exit 0
@@ -37,7 +38,6 @@ vrrp_script check_web {
         fall 1
         rise 1
 }
-```
 vrrp_instance VI_1 {
         state MASTER
         interface eth0
@@ -52,7 +52,7 @@ vrrp_instance VI_1 {
                 check_web
         }
 }
-
+```
 ![alt text]()
 
 ## Дополнительные задания со звёздочкой*

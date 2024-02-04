@@ -31,7 +31,8 @@ else
   exit 1
 fi
 ```
-```конфигурация keepalived.conf
+конфигурация keepalived.conf
+```
 vrrp_script check_web {
         script "/etc/keepalived/check_web.sh"
         interval 3

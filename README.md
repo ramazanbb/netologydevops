@@ -54,7 +54,8 @@ vrrp_instance VI_1 {
         }
 }
 ```
-![alt text]()
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Снимок%20экрана%201скрин.png)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Снимок%20экрана%202скрин.png)
 
 ## Дополнительные задания со звёздочкой*
 ### Задание 3* со звёздочкой

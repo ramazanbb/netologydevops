@@ -22,5 +22,6 @@ rsync -avP --checksum --exclude=".*" ~/ /tmp/backup
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ### Решение 2
-[backup.sh](https://github.com/ramazanbb/netologydevops/blob/main/img/backup.sh)
+[crontab_backup.txt](https://github.com/ramazanbb/netologydevops/blob/main/img/crontab_backup.txt)
+
 ![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/rsync2.png)

@@ -7,9 +7,8 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
  
 ### Решение 1
-
-![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Снимок%20экрана%202024-02-04%20154337.png)
-[схема](/img//hsrp_advanced.pkt)
+- ссылка конфигурациолнного файла (https://github.com/ramazanbb/netologydevops/blob/main/img/haproxy1.cfg)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/haproxy1.png)
 
 ---
 
@@ -20,7 +19,8 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 ### Решение 2
-![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/Снимок%20экрана%201скрин.png)
+- ссылка конфигурациолнного файла (https://github.com/ramazanbb/netologydevops/blob/main/img/haproxy2.cfg)
+![alt text](https://github.com/ramazanbb/netologydevops/blob/main/img/haproxy2.png)
 
 ## Дополнительные задания со звёздочкой*
 ### Задание 3* со звёздочкой
